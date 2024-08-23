@@ -1,0 +1,32 @@
+:root {
+    --font1: 'Aboreto';
+}
+
+body {
+    font-family: var(--font1);
+    text-align: center;
+    margin-top: 20%;
+    background-color: black;
+    color: white;
+}
+.btn {
+    font-family: var(--font1);
+    padding: 2rem;
+    width: 30rem;
+}
+
+.container {
+    background-color: black;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+h1 {
+    margin-bottom: 3rem;
+}
+
+h2 {
+    margin-bottom: 2rem;
+}
